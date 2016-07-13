@@ -113,7 +113,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/leverege.png"
     date: "August 2016 - Current"
-    description: "Started Work as Product Engineer at Leverege"
+    description: "Started Work as a Product Engineer at Leverege (www.leverege.com)"
   - image: "/img/timeline/vfalogo.jpg"
     date: "August 2016 - Current"
     description: "Started my Two Year Fellowship with Venture for America"
