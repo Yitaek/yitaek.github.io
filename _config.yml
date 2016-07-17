@@ -14,6 +14,9 @@ url: "https://www.yitaekhwang.com/"
 
 baseurl: "https://www.yitaekhwang.com/"
 
+map-tileset: 'http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png'
+map-credits: '<a target="_blank" href="https://github.com/svmatthews/jekyll-maps">Jekyll Maps</a> | Tiles: Stamen & OSM'
+
 # Google tracking id
 
 google-tracking-id: ""
@@ -30,7 +33,7 @@ force-https: True
 
 lang: "en"
 author: "Yitaek Hwang"
-title: "In Searh of Fatima"
+title: "In Search of Fatima"
 description: "A fool's journey to nowhere. Yitaek' Hwang's personal blog for traveling, projects, and life blurbs"
 keywords: "yitaek, hwang, traveling, tech, duke, vfa, leverege"
 favicon: "/img/favicon.ico"
@@ -95,12 +98,12 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
+reddit-share: False
+google-plus-share: False
 tumblr-share: True
-pinterest-share: True
+pinterest-share: False
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: "yitaek"
 
