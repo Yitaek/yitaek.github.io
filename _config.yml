@@ -22,7 +22,7 @@ force-https: True
 
 black-favicon: "/img/favicon-world.ico"
 
-background-img: "/img/space.jpg"
+#background-img: "/img/space.jpg"
 
 ##############################
 # Dynamic Text on the Header #
