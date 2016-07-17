@@ -1,42 +1,20 @@
-
 # Site settings
 
-# NB! Set your site's url, otherwise stuff will break :)
-
 url: "https://www.yitaekhwang.com/"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-baseurl: "https://www.yitaekhwang.com/"
-
-map-tileset: 'http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png'
-map-credits: '<a target="_blank" href="https://github.com/svmatthews/jekyll-maps">Jekyll Maps</a> | Tiles: Stamen & OSM'
-
-# Google tracking id
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
+#baseurl: "https://www.yitaekhwang.com/"
+disqus-shortname: "yitaek"
 lang: "en"
 author: "Yitaek Hwang"
 title: "In Search of Fatima"
 description: "A fool's journey to nowhere. Yitaek' Hwang's personal blog for traveling, projects, and life blurbs"
 keywords: "yitaek, hwang, traveling, tech, duke, vfa, leverege"
 favicon: "/img/favicon.ico"
+
+
+google-tracking-id: ""
+force-https: True
+
+
 
 ################
 # Header layout #
@@ -56,7 +34,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "In Search of Fatima"
   - text: "A fool's journey to nowhere"
@@ -105,7 +83,6 @@ pinterest-share: False
 pocket-share: True
 vkontakte-share: False
 
-disqus-shortname: "yitaek"
 
 syntax-highlight: True
 
