@@ -28,6 +28,19 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
   $(function(){$(".navbar-brand").click(function(){$(".collapse.in")&&$(".collapse.in").animate({height:"1px"},500,function(){$(".collapse.in").removeClass("in")})})});
   </script>
 
+  <!-- Main library -->
+<script src="/js/three.min.js"></script>
+
+<!-- Helpers -->
+<script src="/js/projector.js"></script>
+<script src="/js/canvas-renderer.js"></script>
+
+<!-- Visualitzation adjustments -->
+<script src="/js/3d-lines-animation.js"></script>
+
+<!-- Animated background color -->
+<script src="/js/color.js"></script>
+
 {% endif %}
 
 {% if site.syntax-highlight and page.section-type == "post" %}
@@ -52,19 +65,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   {% endif %}
 {% endif %}
-
-<!-- Main library -->
-<script src="/js/three.min.js"></script>
-
-<!-- Helpers -->
-<script src="/js/projector.js"></script>
-<script src="/js/canvas-renderer.js"></script>
-
-<!-- Visualitzation adjustments -->
-<script src="/js/3d-lines-animation.js"></script>
-
-<!-- Animated background color -->
-<script src="/js/color.js"></script>
 
 {% if site.disqus-shortname and jekyll.environment == "production" %}
 
