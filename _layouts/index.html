@@ -16,12 +16,6 @@
       {% for page in site.pages %}
         {% if p[1] == page.section-type %}
           {% include {{ page.path }} %}
-
-              <div class="canvas-wrap">
-    <div class="canvas-content">
-    </div>
-    <div id="canvas" class="gradient"></div>
-  </div>
         {% endif %}
       {% endfor %}
     {% endfor %}
