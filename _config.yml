@@ -20,7 +20,7 @@ force-https: True
 # Header layout #
 ################
 
-black-favicon: "/img/favicon-world.ico"
+#black-favicon: "/img/favicon-world.ico"
 #background-img: "/img/space.jpg"
 
 ##############################

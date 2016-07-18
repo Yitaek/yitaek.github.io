@@ -37,20 +37,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 {% if jekyll.environment == "production" %}
   {% if site.google-tracking-id %}
 
-<!-- Main library -->
-<script src="/js/three.min.js"></script>
-
-<!-- Helpers -->
-<script src="/js/projector.js"></script>
-<script src="/js/canvas-renderer.js"></script>
-
-<!-- Visualitzation adjustments -->
-<script src="/js/3d-lines-animation.js"></script>
-
-<!-- Animated background color -->
-<script src="/js/color.js"></script>
-
-
   <!-- Google Tracking Id Start -->
 
   <script>
@@ -66,6 +52,19 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   {% endif %}
 {% endif %}
+
+<!-- Main library -->
+<script src="/js/three.min.js"></script>
+
+<!-- Helpers -->
+<script src="/js/projector.js"></script>
+<script src="/js/canvas-renderer.js"></script>
+
+<!-- Visualitzation adjustments -->
+<script src="/js/3d-lines-animation.js"></script>
+
+<!-- Animated background color -->
+<script src="/js/color.js"></script>
 
 {% if site.disqus-shortname and jekyll.environment == "production" %}
 
