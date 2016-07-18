@@ -21,7 +21,7 @@ force-https: True
 ################
 
 #black-favicon: "/img/favicon-world.ico"
-#background-img: "/img/space.jpg"
+background-img: "/img/space.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -134,6 +134,8 @@ social:
     url: "https://www.linkedin.com/in/yitaekhwang"
   - title: "github"
     url: "https://github.com/yitaek"
+  - title: "envelope"
+    url: "mailto:yitaek.hwang@gmail.com"
 
 
 ############
@@ -151,8 +153,9 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  Career: 'career'
+  Travel: 'travel'
+  Projects: 'projects'
 
 # Exclusion list from the generated _site
 
