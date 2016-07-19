@@ -4,7 +4,7 @@ comments: true
 date: 2015-08-25 18:42:54+00:00
 layout: page
 link: https://yitaek.wordpress.com/til196/scandinavia/copenhagen-denmark/
-slug: copenhagen-denmark
+slug: copenhagen
 title: Copenhagen, Denmark
 wordpress_id: 629
 ---
@@ -29,13 +29,13 @@ There are three ways to get around in Copenhagen:
 
 
 
-	
+
   1. Walk
 
-	
+
   2. Illegally ride public transportation ("accidentally" forget to check in/out for metro, use screenshot version of the bus card, etc)
 
-	
+
   3. Rent a bike
 
 

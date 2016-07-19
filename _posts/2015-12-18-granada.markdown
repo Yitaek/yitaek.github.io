@@ -7,7 +7,6 @@ link: https://yitaek.wordpress.com/til196/nicaragua/granada/
 slug: granada
 title: Granada
 wordpress_id: 737
-visible: 1
 ---
 
 ![granada](https://yitaek.files.wordpress.com/2015/12/granada.jpg)![monkey](https://yitaek.files.wordpress.com/2015/12/monkey.jpg)![red house](https://yitaek.files.wordpress.com/2015/12/red-house.jpg)![sunset](https://yitaek.files.wordpress.com/2015/12/sunset.jpg)![volcano](https://yitaek.files.wordpress.com/2015/12/volcano.jpg)
