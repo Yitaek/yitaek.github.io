@@ -2,7 +2,7 @@
 author: yitaek
 comments: true
 date: 2015-08-25 18:42:54+00:00
-layout: page
+layout: post
 link: https://yitaek.wordpress.com/til196/scandinavia/copenhagen-denmark/
 slug: copenhagen
 title: Copenhagen, Denmark
