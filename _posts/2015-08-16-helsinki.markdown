@@ -4,7 +4,7 @@ comments: true
 date: 2015-08-16 18:37:49+00:00
 layout: post
 link: https://yitaek.wordpress.com/til196/scandinavia/finland/
-slug: finland
+slug: helsinki
 title: Helsinki, Finland
 wordpress_id: 555
 ---
