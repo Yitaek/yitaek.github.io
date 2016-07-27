@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/scandinavia/copenhagen-denmark/
 slug: copenhagen
 title: Copenhagen, Denmark
 wordpress_id: 629
+category: travel
 ---
 
 _**Day 1**_

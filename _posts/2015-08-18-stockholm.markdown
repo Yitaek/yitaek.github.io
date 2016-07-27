@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/scandinavia/sweden/
 slug: stockholm
 title: Stockholm, Sweden
 wordpress_id: 584
+category: travel
 ---
 
 _**Day 1**_

@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/scandinavia/finland/
 slug: helsinki
 title: Helsinki, Finland
 wordpress_id: 555
+category: travel
 ---
 
 _**Day 1**_

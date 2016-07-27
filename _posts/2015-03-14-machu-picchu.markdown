@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/peru/machu-picchu/
 slug: machu-picchu
 title: Machu Picchu
 wordpress_id: 416
+category: travel
 ---
 
 *** I was extremely lazy and forgot to actually edit this page. It's June now so three months outdated, and I broke my phone so some of the pictures got lost. I guess I will have to do with some Instagram pictures I posted ***

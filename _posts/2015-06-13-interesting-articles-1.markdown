@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/2015/06/13/interesting-articles-1/
 slug: interesting-articles-1
 title: Interesting Articles - 1
 wordpress_id: 481
+category: travel
 ---
 
 Today I called my parents.
@@ -68,15 +69,15 @@ Two disheartening quotes:
 
 <blockquote>
 
-> 
+>
 > Labor trafficking is a huge problem globally. There really isn't any industry that is immune to this problem.
-> 
-> 
+>
+>
 
-> 
+>
 > All of these suppliers are desperately trying to find ways to cut costs. The only thing they have substantial control over is labor.
-> 
-> 
+>
+>
 </blockquote>
 
 

@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/china/hangzhou/
 slug: hangzhou
 title: Hangzhou
 wordpress_id: 472
+category: travel
 ---
 
 Three days should be enough to see all of the city's touristy spots. Almost everything revolves around West Lake.

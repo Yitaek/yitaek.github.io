@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/china/shanghai/
 slug: shanghai
 title: Shanghai
 wordpress_id: 470
+category: travel
 ---
 
 [![postcard shop](https://yitaek.files.wordpress.com/2015/05/postcard-shop.jpg?w=168)](https://yitaek.files.wordpress.com/2015/05/postcard-shop.jpg) [![temple](https://yitaek.files.wordpress.com/2015/05/temple.jpg?w=300)](https://yitaek.files.wordpress.com/2015/05/temple.jpg)

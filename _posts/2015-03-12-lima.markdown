@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/peru/lima/
 slug: lima
 title: Lima
 wordpress_id: 415
+category: travel
 ---
 
 I don't feel like I'm in Peru at all.

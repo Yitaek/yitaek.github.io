@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/russia/moscow/
 slug: moscow
 title: Moscow
 wordpress_id: 514
+category: travel
 ---
 
 **_Day 1_**

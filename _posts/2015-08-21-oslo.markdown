@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/scandinavia/oslo-norway/
 slug: oslo
 title: Oslo, Norway
 wordpress_id: 607
+category: travel
 ---
 
 _**Day 1**_

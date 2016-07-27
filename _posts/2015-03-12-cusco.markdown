@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/peru/cusco/
 slug: cusco
 title: Cusco
 wordpress_id: 410
+category: travel
 ---
 
 Saqsaywaman pronounced like sexy women means "fat falcon" in Quechua. Apparently it used to mean the "head of a puma" as Cusco was laid out in the shape of a puma and Saqsaywaman is located at its head. But after the conquistadors attacked the Cusco, they left Incan corpses out on the field near Sawsaywaman. Falcons, vultures, and others of its kind feasted on the dead bodies and became fat, lending this Incan ruin to be named "fat falcon" or Saqsaywaman.

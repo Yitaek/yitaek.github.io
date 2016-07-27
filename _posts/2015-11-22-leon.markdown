@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/nicaragua/leon/
 slug: leon
 title: Leon
 wordpress_id: 687
+category: travel
 ---
 
 _Day 1 - Foreigner Experience_

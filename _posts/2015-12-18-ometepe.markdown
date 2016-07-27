@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/nicaragua/ometepe/
 slug: ometepe
 title: Ometepe
 wordpress_id: 739
+category: travel
 ---
 
 ![agua](https://yitaek.files.wordpress.com/2015/12/agua.jpg)![green](https://yitaek.files.wordpress.com/2015/12/green.jpg)![maderas](https://yitaek.files.wordpress.com/2015/12/maderas.jpg)![sunset](https://yitaek.files.wordpress.com/2015/12/sunset1.jpg)![sunset beach](https://yitaek.files.wordpress.com/2015/12/sunset-beach.jpg)![volcano](https://yitaek.files.wordpress.com/2015/12/volcano1.jpg)![volcano 2](https://yitaek.files.wordpress.com/2015/12/volcano-2.jpg)

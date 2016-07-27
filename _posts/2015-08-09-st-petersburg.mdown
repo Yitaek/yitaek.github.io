@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/til196/russia/st-petersburg/
 slug: st-petersburg
 title: St. Petersburg
 wordpress_id: 516
+category: travel
 ---
 
 _**Day 1**_
