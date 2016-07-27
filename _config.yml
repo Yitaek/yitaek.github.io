@@ -11,7 +11,7 @@ keywords: "yitaek, hwang, traveling, tech, duke, vfa, leverege"
 favicon: "/img/favicon.ico"
 
 
-google-tracking-id: ""
+google-tracking-id: "UA-81478808-1"
 force-https: True
 
 
@@ -21,7 +21,7 @@ force-https: True
 ################
 
 #black-favicon: "/img/favicon-world.ico"
-background-img: "/img/space.jpg"
+background-img: "/img/space-small.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -33,7 +33,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 1000
+delete-delay: 1500
 lines: # You can add HTML Tags in the Text
   - text: "In Search of Fatima"
   - text: "A fool's journey to nowhere"
