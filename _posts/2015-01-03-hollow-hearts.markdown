@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/01/03/hollow-hearts/
 slug: hollow-hearts
 title: Hollow Hearts
 wordpress_id: 238
-categories:
-- Scribbles
+category: thoughts
 ---
 
 _I was born to make mistakes my apologies.

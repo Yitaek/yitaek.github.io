@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/02/08/are-you-proud-of-me/
 slug: are-you-proud-of-me
 title: Are You Proud of Me
 wordpress_id: 352
-categories:
-- Scribbles
+category: thoughts
 ---
 
 _Only guarantee in life is death so I'm kind of scared, to be honest with you

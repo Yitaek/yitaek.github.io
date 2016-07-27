@@ -6,6 +6,7 @@ layout: post
 link: https://yitaek.wordpress.com/2015/12/28/thoughts-from-dubai/
 slug: thoughts-from-dubai
 title: Thoughts from Dubai
+category: thoughts
 wordpress_id: 764
 ---
 

@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/01/06/catharsis/
 slug: catharsis
 title: Catharsis
 wordpress_id: 257
-categories:
-- Scribbles
+category: thoughts
 ---
 
 Before I left for India, I told my parents that I might not want to do engineering for a living. I wanted to travel the world and build hospitals in the most remote regions. To my surprise, my mom told me I could also travel during my time off from work. Since my parents have been so supportive of everything that I had wanted or dreamed of, this slight remark came off as a huge surprise--a reality check.

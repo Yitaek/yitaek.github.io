@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2014/12/18/welcome-to-forever/
 slug: welcome-to-forever
 title: Welcome to Forever
 wordpress_id: 214
-categories:
-- Scribbles
+category: thoughts
 ---
 
 As 2014 draws to a close, I can't help but wonder what I have accomplished this year. The other day, a scary thought struck me. I already lived a quarter of my life, and yet I have done nothing of importance. Even worse, I don't even know what I want to do.

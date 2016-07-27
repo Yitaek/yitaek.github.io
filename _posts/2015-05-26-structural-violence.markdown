@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/2015/05/26/structural-violence/
 slug: structural-violence
 title: Structural Violence
 wordpress_id: 451
+category: articles
 ---
 
 [embed]https://www.ted.com/talks/gary_haugen_the_hidden_reason_for_poverty_the_world_needs_to_address_now[/embed]

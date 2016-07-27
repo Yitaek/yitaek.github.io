@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/01/29/sidewalkers/
 slug: sidewalkers
 title: Sidewalkers
 wordpress_id: 348
-categories:
-- Scribbles
+category: thoughts
 ---
 
 "Oh yeah, how was India?"

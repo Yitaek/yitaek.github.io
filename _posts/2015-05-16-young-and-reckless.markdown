@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/2015/05/16/young-and-reckless/
 slug: young-and-reckless
 title: Young and Reckless
 wordpress_id: 438
+category: thoughts
 ---
 
 Is it stupidity or youth…or is it the same thing?
@@ -17,19 +18,19 @@ Before this past semester began, everything was well laid-out for me:
 
 
 
-	
+
   * Get into Duke (check)
 
-	
+
   * Pursue BME/ECE dual degree (check)
 
-	
+
   * Duke Engage EWH (check)
 
-	
+
   * Medical device summer internship (check)
 
-	
+
   * Graduate and start working
 
 
@@ -95,25 +96,25 @@ After seeing some engineer's pro/con list on joining either Uber or Zenefits led
 
 
 
-	
+
   1. Company environment: I can go into a big company, get trained and learn what it is like to work in an environment with others and different layers of authority, but only if I’m very observant and sensitive to these situations. Many learn about structure, but not enough about management especially when trying to convert that know-how into a smaller company. Conversely, I can join a smaller company, learn about all the possibilities of small startups and the nimble speed of progress. However, most startups fail, and I might end up wasting a couple of years learning how to do things the wrong way.
 
-	
+
   2. Interests/Ambitions: Is my goal to eventually work in or co-found a startup? If so, working at a good startup will offer much more experience in a shorter amount of time.
 
-	
+
   3. Missing skill-sets: Do I need some structure and traditional knowledge or do I need to break away from a regimented program and see the excitement and opportunity a startup can offer?
 
-	
+
   4. Recognizing good opportunities: specifically for startups
 
-	
+
     * Is the company fast-growing or quickly making progress in its product development? Is it iterating or reinventing itself/product all the time?
 
-	
+
     * Will I be challenged out of my comfort zone (tech skills or people abilities)? Are the people around me more passionate about what they are doing or are they looking for answers?
 
-	
+
     * Is the CEO or management, by traditional standards, brilliant? Are they energetic people who are thinking about new solutions everyday?
 
 

@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/2016/01/10/to-hell-with-good-intentions/
 slug: to-hell-with-good-intentions
 title: To Hell with Good Intentions
 wordpress_id: 826
+category: thoughts
 ---
 
 In the two weeks that I've "stayed" in Nepal -  a bit lost both at the hospital and at the homestay - I had a lot of time to think, underneath the two layers of blankets and three sweatshirts, shivering in the Himalayan freeze.

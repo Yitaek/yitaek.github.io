@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/03/11/dumb-guy-dumb-guy/
 slug: dumb-guy-dumb-guy
 title: dumb guy dumb guy
 wordpress_id: 360
-categories:
-- Scribbles
+category: thoughts
 ---
 
 
@@ -116,13 +115,13 @@ Since then, I have been trying to make more concrete goals for my future. I’ve
 
 
 
-	
+
   1. I’m not sure what excites you. I can’t really figure you out.
 
-	
+
   2. It seems like you are doing a million things. You can’t be just dabbling on things. Usually when people do something, they pour their hearts out…but with you, I’m not sure. It’s not like you are bad at it though.
 
-	
+
   3. You tell me you aren’t doing this for the money or want to become a sellout. I can totally see you drop out and disappear into nowhere.
 
 

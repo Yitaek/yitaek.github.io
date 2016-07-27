@@ -7,8 +7,7 @@ link: https://yitaek.wordpress.com/2015/02/23/sagaba/
 slug: sagaba
 title: Sagaba
 wordpress_id: 356
-categories:
-- Scribbles
+category: thoughts
 ---
 
 It's funny how things change over time. Lying down underneath the mosquito net in Huruma Hospital on a rainy night in August, I could only focus on the meaning of _sagaba_. Surrounded by people yet feeling so alone on that bed next to the broken windows and afraid to face the surge of emotion as I sobered up, I reflected on how Tanzania trip had been a rude awakening to reality: harsh, merciless, full of hypocrisy. I was so filled with disenchantment that I could only relate to the girl in Blue Scholar's song _Sagaba. _

@@ -7,7 +7,7 @@ link: https://yitaek.wordpress.com/2015/06/13/interesting-articles-1/
 slug: interesting-articles-1
 title: Interesting Articles - 1
 wordpress_id: 481
-category: travel
+category: articles
 ---
 
 Today I called my parents.
