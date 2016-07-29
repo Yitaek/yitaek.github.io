@@ -7,6 +7,7 @@ link: https://yitaek.wordpress.com/2015/05/28/traveling-man/
 slug: traveling-man
 title: Traveling Man
 wordpress_id: 448
+category: thoughts
 ---
 
 * Suggestion: Read while listening to [https://youtu.be/Z0WT6waeQRc](https://youtu.be/Z0WT6waeQRc) with [rainymood](http://www.rainymood.com/)
@@ -14,7 +15,7 @@ wordpress_id: 448
 
 <blockquote>
 
-> 
+>
 > _Memories don’t live like people do
 __They always remember you
 __Whether things are good or bad, it’s just the memories.
@@ -24,13 +25,13 @@ __Moving through places, space and time
 __Gotta lotta things I got to do
 __God willin’ I’m coming back to you
 __My baby boo_
-> 
-> 
+>
+>
 
-> 
+>
 > - "Traveling Man" by Mos Def
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -97,16 +98,16 @@ And that's why I am and continue to be a traveling man.
 
 <blockquote>
 
-> 
+>
 > _Promise me as you travel each mile
 __You'll think of me ev'ry once in a while
 __I feel the sunshine in the warmth of your smile
 __'Til then remember me, somebody waiting_
-> 
-> 
+>
+>
 
-> 
+>
 > - "Somebody Waiting" by Karen Wyman
-> 
-> 
+>
+>
 </blockquote>
