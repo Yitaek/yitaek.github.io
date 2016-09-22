@@ -121,7 +121,7 @@ email: "yitaek.hwang@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yitaek is an aspiring machine learning engineer currently working at Leverege, LLC."
+author_blurb: "Yitaek is an aspiring machine learning engineer currently working at Leverege, LLC. He also hopes to travel to all 196 countries in the world, looking for his version of Fatima along the way."
 author_blurb_image: "/img/volcano.jpg"
 
 ##################
